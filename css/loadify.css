@@ -1,0 +1,21 @@
+.jquery-loading{
+    width:100%; 
+    height:100%;
+    background-color: white; 
+    position:absolute;
+}
+
+.jquery-loading-content{
+    display: none;
+}
+
+.jquery-loading-img{
+    background: url(loading.gif) no-repeat center center;
+    height: 50px;
+    width: 50px;
+    margin: 0 auto;
+}
+
+.jquery-loading-text{
+    text-align: center;
+}
